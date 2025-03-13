@@ -14,4 +14,15 @@
 
 ###
 
+<div align="left">
+  <img height="32" width="32" src="https://cdn.simpleicons.org/python" height="40" alt="python logo" />
+  <img width="12" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/linux" height="40" alt="linux logo" />
+  <img width="12" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/gnubash" height="40" alt="bash" />
+  <img width="12" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/git" height="40" alt="git" />
+  <img width="12" />
+</div>
+###
 
