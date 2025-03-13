@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm from Connecticut <br><br>- 🔭 I’m a student<br>- 📚 I'm currently learning CIS460 <br>- ⚡ In my free time I like to go outside</p>
+<p align="left">I'm from Connecticut <br><br>- 🔭 I’m a student<br>- 📚 I'm currently learning CIS460 :D <br>- ⚡ In my free time I like to go outside</p>
 
 ###
 
