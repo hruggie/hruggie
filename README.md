@@ -15,7 +15,6 @@
 ###
 
 <h3 align="left">👩‍💻  <p align="left">Student at <img height="40" src="MU.jpg"/> studying CIS and Business Analytics</p>
-![image](https://github.com/user-attachments/assets/17cd91c1-f2e7-48f9-80f7-303d20105f36)
 
 
 ###
