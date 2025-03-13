@@ -23,6 +23,8 @@
   <img width="12" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/git" height="40" alt="git" />
   <img width="12" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/mysql" height="40" alt="MYSQL" />
+  <img width="12" />
 </div>
 
 
