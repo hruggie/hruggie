@@ -26,7 +26,9 @@
 
 ###
 
-<p align="left">I'm from Connecticut <br><br>- 🔭 I’m a student learning CIS and BUAN<br>- 📚 I'm currently learning CIS460 :D <br>- ⚡ In my free time I like to go outside</p>
+<p align="left">Student at <img height="40" src="MU.jpg"/> studying CIS and Business Analytics</p>
+![image](https://github.com/user-attachments/assets/dc7c86d8-3ccb-4905-abc7-cbdc69194b4d)
+
 
 
 ###
